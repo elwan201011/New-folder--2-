@@ -1,4 +1,5 @@
 name : Elwan
 id: 41810154
 
-major: softwares
+major: software
+123
