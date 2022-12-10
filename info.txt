@@ -1,2 +1,4 @@
 name : Elwan
 id: 41810154
+
+major: SWE
